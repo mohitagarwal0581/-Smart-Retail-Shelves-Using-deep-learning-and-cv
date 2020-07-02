@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>IMG-20200226-WA0011.jpg</filename>
+	<path>C:\Users\mohit\OneDrive\Desktop\dataset\IMG-20200226-WA0011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dairy milk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>272</ymin>
+			<xmax>298</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>perk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>244</ymin>
+			<xmax>528</xmax>
+			<ymax>915</ymax>
+		</bndbox>
+	</object>
+</annotation>

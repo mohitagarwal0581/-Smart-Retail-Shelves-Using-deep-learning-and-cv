@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>IMG-20200225-WA0038.jpg</filename>
+	<path>C:\Users\mohit\OneDrive\Desktop\dataset\IMG-20200225-WA0038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>perk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>39</ymin>
+			<xmax>410</xmax>
+			<ymax>988</ymax>
+		</bndbox>
+	</object>
+</annotation>
