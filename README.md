@@ -27,9 +27,8 @@ the chocolates be overlapped in many images.<br>
 6. Here are some examples of images containing chocolates:<br>
 <img src="srsdocs/dataset1.PNG">
 <img src="srsdocs/dataset2.PNG"></li>
-  </ul>
-  <ul>
-<li><h3>Training Preparation Module:</h3><br>
+  
+<li><h3>Training Preparation Module:</h3>
   1. LabelImg of the objects in the images is done so that classifier can identify objects
 in the images.<br>
 2. For labelling we have used LabelImg.<br>
