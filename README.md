@@ -24,13 +24,13 @@ are many non-desired instances in the images.<br>
 5. Then, we took about another 50 pictures with both chocolates in the picture. We want
 to be able to detect the chocolates when they’re overlapping, so we made sure to have
 the chocolates be overlapped in many images.<br>
-6. Here are some examples of images containing chocolates:
+6. Here are some examples of images containing chocolates:<br>
 <img src="srsdocs/dataset1.PNG">
 <img src="srsdocs/dataset2.PNG"></li>
   </ul>
   <ul>
-<li><h3>Training Preparation Module:</h3></li>
-  <li>1. LabelImg of the objects in the images is done so that classifier can identify objects
+<li><h3>Training Preparation Module:</h3><br>
+  1. LabelImg of the objects in the images is done so that classifier can identify objects
 in the images.<br>
 2. For labelling we have used LabelImg.<br>
 3. An .XML file will be saved by labelimg that contains the data which is labelled i.e.
