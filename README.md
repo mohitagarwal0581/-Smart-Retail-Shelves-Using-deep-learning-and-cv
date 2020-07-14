@@ -61,7 +61,7 @@ trained that is approximately 40000 steps.<Br>
 classifier.<br>
       </li>
   </ul>
-##Results
+## Results
 During the training, the tensorboard shows various graphs which depicts various types of losses.
 A Loss function is used to study how much the values that were predicted differ from the actual values of the training data. Hence the loss value should be low. Here the overall total loss is less than 0.05 and is almost constant. 
 <p align="center">
